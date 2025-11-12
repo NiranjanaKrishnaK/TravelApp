@@ -1,4 +1,4 @@
-✈️ Travel Planner App
+## ✈️ Travel Planner App
 
 A full-featured travel planning application that helps users organize trips, manage bookings, track expenses, and generate trip summaries — all in one place.
 
